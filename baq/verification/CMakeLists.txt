@@ -1,4 +1,4 @@
-project("CompDecomp")
+project("BAQVerification")
 cmake_minimum_required(VERSION 3.22)
 add_executable(data_comp)
 target_sources(data_comp PRIVATE "data_comp.cpp")
